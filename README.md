@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# blog_app
+Odin Project Blog App
+>>>>>>> ad9a1c22ab7ee6772f6be26efd1a62abe0465b89
